@@ -7,3 +7,4 @@ hi('queen');
 hi('mantri'); 
 hi('senadhipati'); 
 hi("batudu"); 
+hi("hello")
